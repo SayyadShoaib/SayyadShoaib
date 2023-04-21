@@ -15,6 +15,8 @@
 
 - 📄  Know more about me [Resume](https://drive.google.com/file/d/1WE04hrJNH718ienpwZ5a0XNwNEc82NME/view?usp=sharing)
 
+- All of my projects are available at <a href="https://shoaibsayyad-portfolio.netlify.app/">Portfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shoaib sayyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoaib sayyad" height="30" width="40" /></a>
