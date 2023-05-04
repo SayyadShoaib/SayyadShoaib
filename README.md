@@ -15,7 +15,7 @@
 
 - 📄  Know more about me [Resume](https://drive.google.com/file/d/1WE04hrJNH718ienpwZ5a0XNwNEc82NME/view?usp=sharing)
 
-- All of my projects are available at <a href="https://shoaibsayyad-portfolio.netlify.app/">Portfolio</a>
+- All of my projects are available at <a href="https://shoaib-sayyad-portfolio.netlify.app/">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
